@@ -71,6 +71,10 @@
     font-family: "Noto Sans Telugu", sans-serif;
 }
 
+.logged-1:hover {
+    cursor: pointer;
+}
+
 .boton {
     display: block;
     font-family: "Noto Sans Telugu", sans-serif;
